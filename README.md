@@ -6,7 +6,7 @@ Repository ini berisi implementasi dan perbandingan dua model Convolutional Neur
 
 Anggota Kelompok
 1. Abd. Based - 230441100055
-2. Aditya - 230441100135
+2. Aditya - 230441100138
 
 ---
 
