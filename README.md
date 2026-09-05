@@ -1,4 +1,4 @@
-# 230441100055_230441100135_Tugas2CNN__PraktikumB_DeepLearningA
+# 230441100055_230441100138_Tugas2CNN__PraktikumB_DeepLearningA
 
 Tugas 2 CNN - Praktikum B Deep Learning
 
